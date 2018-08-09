@@ -7,6 +7,7 @@ body {
 	font-family: 'MedievalSharp', cursive;
 	background-image: url(../images/pattern.png);
 	background-color: #0070C9;
+	height: 97vh;
 }
 
 h1 {
